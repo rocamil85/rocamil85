@@ -4,10 +4,10 @@ My journey in the data world has led me to dive deep into Google Cloud Platform 
 
 🌟 **What You'll Find Here:**
 
-**Practical Exercises:** Step-by-step solutions to common Data Engineering problems, implemented on GCP.
-Tutorials and Guides: From setting up your environment on GCP to deploying complex data pipelines, I guide you through the process.
-Sample Projects: Complete projects that show how to integrate different GCP services to meet real business needs.
-Resources and Tips: Links to useful resources, best practices, and tips based on my personal experience.
+- **Practical Exercises:** Step-by-step solutions to common Data Engineering problems, implemented on GCP.
+- **Tutorials and Guides:** From setting up your environment on GCP to deploying complex data pipelines, I guide you through the process.
+- **Sample Projects:** Complete projects that show how to integrate different GCP services to meet real business needs.
+- **Resources and Tips:** Links to useful resources, best practices, and tips based on my personal experience.
 
 💡 **My Areas of Interest:**
 
