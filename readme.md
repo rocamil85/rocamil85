@@ -20,5 +20,5 @@ Resources and Tips: Links to useful resources, best practices, and tips based on
 
 Feel free to explore my repository, fork projects, and leave your stars if you find something useful. I'm open to collaborations and always looking for new learning opportunities. Let's connect!
 
-**LinkedIn:** www.linkedin.com/in/ronaldo-castro-milan
-**Email:** rocamil85@gmail.com
+-**LinkedIn:** www.linkedin.com/in/ronaldo-castro-milan
+-**Email:** rocamil85@gmail.com
